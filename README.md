@@ -2,7 +2,8 @@
 <h3 align="center">A passionate Software Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=i-vanshika&label=Profile%20views&color=0e75b6&style=flat" alt="i-vanshika" /> </p>
-
+<img align="right" alt="Coding" width="400" 
+src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif">
 - 🌱 I’m currently learning **Data Science**
 
 - ⚡ Fun fact **I'm an explorer**
